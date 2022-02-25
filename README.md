@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ninadsharma
-- 👀 I’m interested in AI, Data Science, Sir Elon Musk ...
+- 👀 I’m interested in AI, Data Science, Flutter and all cool things technology can do
 - 🌱 I’m currently learning ... Whatever comes in my way
 
 
